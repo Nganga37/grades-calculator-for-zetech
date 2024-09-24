@@ -1,4 +1,4 @@
-// BANK LOAN
+// grading system for zetech
 #include <stdio.h>
 
 int main() {
